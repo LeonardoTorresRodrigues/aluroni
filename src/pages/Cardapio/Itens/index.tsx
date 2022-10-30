@@ -13,24 +13,31 @@ export default function Itens(props: Props) {
   const [lista, setLista] = useState(cardapio);
   const { busca, filtro, ordenador } = props;
 
+  const ordenarPropriedadeCrescente = (
+    lista: typeof cardapio,
+    propriedade: 'size' | 'serving' | 'price'
+  ) => {
+    return lista.sort((a, b) => (a[propriedade] > b[propriedade] ? 1 : -1));
+  }
+
   function testaBusca(title: string) {
     const regex = new RegExp(busca, 'i');
     return regex.test(title);
   }
 
   function testaFiltro(id: number) {
-    if(filtro !== null) return filtro === id;
+    if (filtro !== null) return filtro === id;
     return true;
   }
 
   function ordenar(novaLista: typeof cardapio) {
-    switch(ordenador) {
+    switch (ordenador) {
       case 'porcao':
-        return novaLista.sort((a, b) => a.size > b.size ? 1 : -1);
+        return ordenarPropriedadeCrescente(novaLista, 'size');
       case 'qtd_pessoas':
-        return novaLista.sort((a, b) => a.serving > b.serving ? 1 : -1);
+        return ordenarPropriedadeCrescente(novaLista, 'serving');
       case 'preco':
-        return novaLista.sort((a, b) => a.price > b.price ? 1 : -1);
+        return ordenarPropriedadeCrescente(novaLista, 'price');
       default:
         return novaLista;
     }
