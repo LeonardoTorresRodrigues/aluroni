@@ -11,6 +11,8 @@ Página de restaurante com cardápios.
 
 ![Captura de Tela (142)](https://user-images.githubusercontent.com/91892938/199042261-06d4fe01-e289-4a9a-9164-6261c697247f.png#vitrinedev)
 
+![2022-10-31 12-29-09 00_00_01-00_00_40~2](https://user-images.githubusercontent.com/91892938/199047669-40328bbb-96e5-4bdf-942f-e822349aae4c.gif)
+
 ## Detalhes do projeto
 
 Projeto feito durante curso de "React: Lidando com arquivos estáticos" da Alura.
