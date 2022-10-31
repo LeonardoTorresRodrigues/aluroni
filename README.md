@@ -5,7 +5,7 @@ Página de cárdapios.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Aluroni**
-| :label: Tecnologias | ***
+| :label: Tecnologias | HTML, CSS, TypeScript 
 | :rocket: URL         | ***
 | :fire: Desafio     | ***
 
