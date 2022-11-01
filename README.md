@@ -9,6 +9,10 @@ Página de restaurante com cardápios.
 | :rocket: URL         | https://aluroni-teal.vercel.app/
 | :fire: Desafio     | https://cursos.alura.com.br/course/react-arquivos-estaticos
 
+
+![badge](https://img.shields.io/badge/Version-1.0-green)
+![badge](https://img.shields.io/badge/Release%20date-31%2F10%2F22-blue)
+
 ![Página principal do Aluroni](https://user-images.githubusercontent.com/91892938/199042261-06d4fe01-e289-4a9a-9164-6261c697247f.png#vitrinedev)
 
 ![GIF com as funcionalidades do Aluroni](https://user-images.githubusercontent.com/91892938/199047669-40328bbb-96e5-4bdf-942f-e822349aae4c.gif)
