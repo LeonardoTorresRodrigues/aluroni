@@ -45,3 +45,7 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
 * Absolute imports
 * SVGR
 * Imports dinâmicos
+
+# Próximas atualizações
+
+:construction: Dark Mode :construction:
