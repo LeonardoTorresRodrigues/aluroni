@@ -36,15 +36,15 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
 ![Cardápio ordenado por carnes)](https://user-images.githubusercontent.com/91892938/199044390-60019936-279c-4f90-81c3-48a353df812c.png)
 
 ## Objetivos do projeto
-### O projeto foi desenvolvido para o estudo de:
-* React
-* CSS Modules
-* Responsividade
-* GIT Commits
-* normalize.css
-* Absolute imports
-* SVGR
-* Imports dinâmicos
+* Estudos de:
+  * React
+  * CSS Modules
+  * Responsividade
+  * GIT Commits
+  * normalize.css
+  * Absolute imports
+  * SVGR
+  * Imports dinâmicos
 
 # Próximas atualizações
 
