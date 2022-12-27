@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
-@import "./styles/themes/light.scss";
-@import "./styles/themes/dark.scss";
+
+body {
+  background-color: #f6f6f6;
+}
 
 * {
   box-sizing: border-box;
