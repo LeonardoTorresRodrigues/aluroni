@@ -47,13 +47,7 @@
     ]
   },
   "devDependencies": {
-    "cz-conventional-changelog": "^3.3.0",
     "sass": "^1.55.0",
     "typescript-plugin-css-modules": "^3.4.0"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    }
   }
 }
