@@ -7,9 +7,9 @@ import Itens from './Itens';
 import Ordenador, { OpcoesOrdenador } from './Ordenador';
 
 export default function Cardapio() {
-  const [busca, setBusca] = useState("");
+  const [busca, setBusca] = useState('');
   const [filtro, setFiltro] = useState<number | null>(null);
-  const [ordenador, setOrdenador] = useState<OpcoesOrdenador>("");
+  const [ordenador, setOrdenador] = useState<OpcoesOrdenador>('');
   return (
     <main>
       <nav className={styles.menu}>
@@ -32,5 +32,5 @@ export default function Cardapio() {
         <Itens busca={busca} filtro={filtro} ordenador={ordenador} />
       </section>
     </main>
-  )
+  );
 }

@@ -4,22 +4,22 @@ import classNames from 'classnames';
 
 const filtros = [
   {
-    "label": "Massas",
-    "id": 1
+    'label': 'Massas',
+    'id': 1
   },
   {
-    "label": "Carnes",
-    "id": 2
+    'label': 'Carnes',
+    'id': 2
   },
   {
-    "label": "Combos",
-    "id": 3
+    'label': 'Combos',
+    'id': 3
   },
   {
-    "label": "Veganos",
-    "id": 4
+    'label': 'Veganos',
+    'id': 4
   }
-]
+];
 
 type IOpcao = typeof filtros[0];
 
@@ -50,5 +50,5 @@ export default function Filtros({ filtro, setFiltro }: Props) {
       ))
       }
     </div >
-  )
+  );
 }

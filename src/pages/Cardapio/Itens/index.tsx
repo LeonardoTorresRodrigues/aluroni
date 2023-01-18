@@ -18,7 +18,7 @@ export default function Itens(props: Props) {
     propriedade: 'size' | 'serving' | 'price'
   ) => {
     return lista.sort((a, b) => (a[propriedade] > b[propriedade] ? 1 : -1));
-  }
+  };
 
   function testaBusca(title: string) {
     const regex = new RegExp(busca, 'i');
@@ -32,14 +32,14 @@ export default function Itens(props: Props) {
 
   function ordenar(novaLista: typeof cardapio) {
     switch (ordenador) {
-      case 'porcao':
-        return ordenarPropriedadeCrescente(novaLista, 'size');
-      case 'qtd_pessoas':
-        return ordenarPropriedadeCrescente(novaLista, 'serving');
-      case 'preco':
-        return ordenarPropriedadeCrescente(novaLista, 'price');
-      default:
-        return novaLista;
+    case 'porcao':
+      return ordenarPropriedadeCrescente(novaLista, 'size');
+    case 'qtd_pessoas':
+      return ordenarPropriedadeCrescente(novaLista, 'serving');
+    case 'preco':
+      return ordenarPropriedadeCrescente(novaLista, 'price');
+    default:
+      return novaLista;
     }
   }
 
