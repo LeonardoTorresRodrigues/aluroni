@@ -45,3 +45,7 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
   * Absolute imports
   * SVGR
   * Imports dinâmicos
+
+# Novas fucionalidades
+
+:construction: React Router DOM :construction:
