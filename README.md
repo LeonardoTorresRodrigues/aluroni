@@ -25,7 +25,7 @@ Página de restaurante com cardápios.
 
 ## Detalhes do projeto
 
-Projeto feito durante curso de "React: Lidando com arquivos estáticos" da Alura.
+Projeto feito durante curso de "React: Lidando com arquivos estáticos" e "React: Conhecendo a biblioteca React Router" da Alura.
 
 O Aluroni é um restaurante com seu cardápio online. Você pode escolher quais pratos prefere por valor, porção do prato e quantidade de pessaos para cada prato.
 
@@ -45,6 +45,7 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
   * Absolute imports
   * SVGR
   * Imports dinâmicos
+  * React Router DOM
 
 # Novas fucionalidades
 
