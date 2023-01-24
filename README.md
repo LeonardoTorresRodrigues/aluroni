@@ -49,4 +49,4 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
 
 # Novas fucionalidades
 
-:construction: React Router DOM :construction:
+:construction: Implementando rotas via React Router :construction:
