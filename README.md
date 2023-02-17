@@ -46,7 +46,10 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
   * SVGR
   * Imports dinâmicos
   * React Router DOM
+  * SPA
 
 # Novas fucionalidades
 
-:construction: Implementando rotas via React Router :construction:
+:construction: Página de detalhes dos pratos :construction:
+
+:construction: DarkMode :construction:
