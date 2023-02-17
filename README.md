@@ -50,6 +50,6 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
 
 # Novas fucionalidades
 
-:construction: Página de detalhes dos pratos :construction:
+:construction: Detalhes dos pratos :construction:
 
 :construction: DarkMode :construction:
