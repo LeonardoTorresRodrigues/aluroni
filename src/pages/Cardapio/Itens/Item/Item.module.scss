@@ -2,9 +2,18 @@
 @import "styles/breakpoints";
 
 .item {
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
   display: flex;
   flex-wrap: wrap;
+  padding: 20px;
+  transition: .2s ease-in;
   width: 90%;
+
+  &:hover {
+    background-color: $grey;
+  }
 
   &__imagem {
     min-width: 240px;
@@ -25,7 +34,7 @@
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding: 0 20px;
+    margin: 0 20px;
 
     @media (max-width: $desktop_xsm) {
       flex-direction: row;
