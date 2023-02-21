@@ -16,8 +16,9 @@ Página de restaurante com cardápios.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
-![badge](https://img.shields.io/badge/Version-1.0-green)
-![badge](https://img.shields.io/badge/Release%20date-31%2F10%2F22-blue)
+![version 2.0 badge](https://img.shields.io/badge/Version-2.0-green)
+![release date badge](https://img.shields.io/badge/Release%20date-31%2F10%2F22-blue)
+![last release update badge](https://img.shields.io/badge/Last%20Release%20Update-21%2F02%2F23-brightgreen)
 
 ![Página principal do Aluroni](https://user-images.githubusercontent.com/91892938/199042261-06d4fe01-e289-4a9a-9164-6261c697247f.png#vitrinedev)
 
@@ -39,6 +40,14 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
 
 ![Cardápio ordenado por carnes)](https://user-images.githubusercontent.com/91892938/199044390-60019936-279c-4f90-81c3-48a353df812c.png)
 
+# Novidades da versão 2.0
+
+- Detalhes dos pratos
+- Página de NotFound
+- Melhoria na responsavidade
+- Implementação para SPA
+- Novos estilos paras as páginas
+
 ## Objetivos do projeto
 * Estudos de:
   * React
@@ -52,8 +61,8 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
   * React Router DOM
   * SPA
 
-# Novas fucionalidades
-
-:construction: Detalhes dos pratos :construction:
+# Em breve
 
 :construction: DarkMode :construction:
+
+:construction: Admin page :construction:
