@@ -21,7 +21,11 @@ Página de restaurante com cardápios.
 
 ![Página principal do Aluroni](https://user-images.githubusercontent.com/91892938/199042261-06d4fe01-e289-4a9a-9164-6261c697247f.png#vitrinedev)
 
-![GIF com as funcionalidades do Aluroni](https://user-images.githubusercontent.com/91892938/199047669-40328bbb-96e5-4bdf-942f-e822349aae4c.gif)
+<div align="center">
+ <img alt="Todas as páginas do Aluroni" src="https://user-images.githubusercontent.com/91892938/199047669-40328bbb-96e5-4bdf-942f-e822349aae4c.gif" />
+</div>
+
+
 
 ## Detalhes do projeto
 
@@ -46,7 +50,10 @@ Também é possível selecionar apenas pratos de massas, carnes, combos ou vegan
   * SVGR
   * Imports dinâmicos
   * React Router DOM
+  * SPA
 
 # Novas fucionalidades
 
-:construction: Implementando rotas via React Router :construction:
+:construction: Detalhes dos pratos :construction:
+
+:construction: DarkMode :construction:
