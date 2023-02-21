@@ -2,6 +2,7 @@ import styles from './Prato.module.scss';
 import { useParams, useNavigate } from 'react-router-dom';
 import cardapio from 'data/cardapio.json';
 import TagsPrato from 'components/TagsPrato';
+import NotFound from 'pages/NotFound';
 
 export default function Prato() {
   const { id } = useParams();
@@ -9,7 +10,7 @@ export default function Prato() {
   const prato = cardapio.find(item => item.id === Number(id));
 
   if(!prato) {
-    return '';
+    return <NotFound />;
   }
 
   return (
