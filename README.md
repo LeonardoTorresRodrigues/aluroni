@@ -20,11 +20,13 @@ Página de restaurante com cardápios.
 ![release date badge](https://img.shields.io/badge/Release%20date-31%2F10%2F22-blue)
 ![last release update badge](https://img.shields.io/badge/Last%20Release%20Update-21%2F02%2F23-brightgreen)
 
-![página inicio)](https://user-images.githubusercontent.com/91892938/221431384-b2308e85-b872-40b5-97b9-5dddfe79b14b.png#vitrinedev)
-
+<div align="center">
+ <img alt="logo aluroni" src="https://user-images.githubusercontent.com/91892938/221433308-e2bf1641-8e6d-4290-b2ec-bd07260341f4.svg#vitrinedev" width="500"/>
+</div>
+ 
 ## Detalhes do projeto
 
-O Aluroni é um restaurante com seu cardápio online. Você pode escolher quais pratos prefere por valor, porção do prato e quantidade de pessaos para cada prato.
+O Aluroni é um restaurante com seu cardápio online. Você pode escolher quais pratos prefere por valor, porção do prato e quantidade de pessoas para cada prato.
 
 ### Página de início
  <img align="center" alt="navegando pela página inicio" src="https://user-images.githubusercontent.com/91892938/221432713-d65fc8ce-ca4b-455d-8ca9-7ad45d1e345c.gif" />
