@@ -20,25 +20,24 @@ Página de restaurante com cardápios.
 ![release date badge](https://img.shields.io/badge/Release%20date-31%2F10%2F22-blue)
 ![last release update badge](https://img.shields.io/badge/Last%20Release%20Update-21%2F02%2F23-brightgreen)
 
-![Página principal do Aluroni](https://user-images.githubusercontent.com/91892938/199042261-06d4fe01-e289-4a9a-9164-6261c697247f.png#vitrinedev)
-
-<div align="center">
- <img alt="Todas as páginas do Aluroni" src="https://user-images.githubusercontent.com/91892938/199047669-40328bbb-96e5-4bdf-942f-e822349aae4c.gif" />
-</div>
-
-
+![página inicio)](https://user-images.githubusercontent.com/91892938/221431384-b2308e85-b872-40b5-97b9-5dddfe79b14b.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Projeto feito durante curso de "React: Lidando com arquivos estáticos" e "React: Conhecendo a biblioteca React Router" da Alura.
-
 O Aluroni é um restaurante com seu cardápio online. Você pode escolher quais pratos prefere por valor, porção do prato e quantidade de pessaos para cada prato.
 
-![Cardápio ordenado por preço](https://user-images.githubusercontent.com/91892938/199044239-d540f62e-3cba-4623-9217-ab7d319f0e7b.png)
+### Página de início
+ <img align="center" alt="navegando pela página inicio" src="https://user-images.githubusercontent.com/91892938/221432713-d65fc8ce-ca4b-455d-8ca9-7ad45d1e345c.gif" />
 
-Também é possível selecionar apenas pratos de massas, carnes, combos ou veganos.
+### Págnina de cardápio com seleção por categoria, busca e detalhes de pratos
+ <img align="center" alt="página do cardápio" src="https://user-images.githubusercontent.com/91892938/221432916-960d5902-ac50-4246-883f-2e6ebf9cb5d2.gif" />
+ 
+ <img align="center" alt="busca e detalhe dos pratos" src="https://user-images.githubusercontent.com/91892938/221433098-94983e0d-01bb-4502-9cea-3769fc7b0b1f.gif" />
 
-![Cardápio ordenado por carnes)](https://user-images.githubusercontent.com/91892938/199044390-60019936-279c-4f90-81c3-48a353df812c.png)
+### Página sobre
+<img align="center" alt="busca e detalhe dos pratos" src="https://user-images.githubusercontent.com/91892938/221433174-bfc44cc8-fa1f-4a18-b23e-24f33d8b3cd5.gif" />
+
+Projeto feito durante curso de "React: Lidando com arquivos estáticos" e "React: Conhecendo a biblioteca React Router" da Alura.
 
 # Novidades da versão 2.0
 
