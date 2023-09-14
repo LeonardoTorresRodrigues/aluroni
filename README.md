@@ -39,7 +39,7 @@ O Aluroni é um restaurante com seu cardápio online. Você pode escolher quais 
 ### Página sobre
 <img align="center" alt="busca e detalhe dos pratos" src="https://user-images.githubusercontent.com/91892938/221433174-bfc44cc8-fa1f-4a18-b23e-24f33d8b3cd5.gif" />
 
-Projeto feito durante curso de "React: Lidando com arquivos estáticos" e "React: Conhecendo a biblioteca React Router" da Alura.
+_Projeto feito durante curso de "React: Lidando com arquivos estáticos" e "React: Conhecendo a biblioteca React Router" da Alura._
 
 # Novidades da versão 2.0
 
